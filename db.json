@@ -1,5 +1,5 @@
 {
-    "DBCONNECT":"mongodb://stayboat_admin:Kiranku123%24@51.79.157.193:27731/stayboat?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=stayboat&authMechanism=SCRAM-SHA-256",
+    "DBCONNECT":"mongodb://onepari_admin:Kiranku123%24@65.21.49.105:27731/onepari?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=onepari&authMechanism=SCRAM-SHA-256",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
-    "ServerPort" : 2020
+    "ServerPort" : 1997
 }
